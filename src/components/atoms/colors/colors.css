@@ -1,0 +1,39 @@
+
+.black-background {
+  background-color: #031a29;
+}
+
+.gray-background {
+  background-color: #273042;
+}
+
+.navbar {
+  background-color: #113765;
+  color: #FFFFFF;
+}
+
+.navbar-button:hover {
+  background-color: #14447b;
+  color: #FFFFFF;
+}
+
+.circular-button {
+  background-color: #555665;
+  color: white;
+}
+
+.paragraph {
+  color: #FFFFFF;
+}
+
+.citation-color {
+  color: #e0d88e;
+}
+
+.citation-author-color {
+  color: #7a744d;
+}
+
+.link-color {
+  color: #031a29;
+}
