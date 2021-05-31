@@ -9,7 +9,7 @@
       </div>
       <div>
         <atitle :text="coherenceTitle"/>
-        <texte-avec-image-et-lien :text="coherenceText" is-right-img/>
+        <texte-avec-image-et-lien image="avantages/logic.jpg" :text="coherenceText" is-right-img/>
       </div>
       <div>
         <atitle :text="retourClientTitle"/>

@@ -6,5 +6,7 @@ export const paragraphPresentation =
 
 export const link =
   'Le développement de ce site web a respecté les codes de l\'atomic design. ' +
-  'Vous trouverez le code source de ce site web à l\'adresse suivante : ....'
+  'Vous trouverez le code source de ce site web à l\'adresse suivante : '
 
+export const depotLink =
+  'https://github.com/valentin-lethiot/atomic-design'

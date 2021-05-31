@@ -5,15 +5,15 @@
       <paragraph :text="intro"/>
       <div>
         <atitle :text="disciplineTitle"/>
-        <texte-avec-image-et-lien :text="disciplineText"/>
+        <texte-avec-image-et-lien image="inconvenients/discipline.jpg" :text="disciplineText"/>
       </div>
       <div>
         <atitle :text="categorisationTitle"/>
-        <texte-avec-image-et-lien :text="categorisationText" is-right-img/>
+        <texte-avec-image-et-lien image="inconvenients/hesitating.png" :text="categorisationText" is-right-img/>
       </div>
       <div>
         <atitle :text="miseEnPlaceTitle"/>
-        <texte-avec-image-et-lien :text="miseEnPlaceText"/>
+        <texte-avec-image-et-lien image="inconvenients/time.jpg" :text="miseEnPlaceText"/>
       </div>
       <navigation-btns @go-previous="goPrevious" @go-next="goNext"/>
     </div>
